@@ -35,7 +35,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Links
 
 - Solution URL: [https://github.com/Rachy112/Singlepricegridproject](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rachealsingleprice.netlify.app](https://your-live-site-url.com)
 
 ## My process
 
