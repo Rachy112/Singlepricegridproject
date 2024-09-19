@@ -73,7 +73,6 @@ The areas i will like to continue focusing on include Cascading Style Sheets whi
 
 
 ## Author
-Markup :
 - Website - [Gabriel Rachael](https://www.instagram.com/rachy_world1)
 - Frontend Mentor - [@rachy112](https://www.frontendmentor.io/profile/rachy112)
 - Twitter - [@rachyworld](https://www.twitter.com/rachyword)
