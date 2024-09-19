@@ -68,7 +68,6 @@ These are some codes that are of great samples and is a good way to reinforce my
 The areas i will like to continue focusing on include Cascading Style Sheets which describes how HTML elements are to be displayed on screen and other media and how it stand as a problem solver. CSS is wide and i will like to learn more about it.
 
 ### Useful resources
-Markup :
 - [w3schools](https://www.W3schools.com) - This helped me with both CSS and HTML. I really liked the pattern and i will use it to learn more.
 - [Scrimba](https://v2.scrimba.com) - This is an amazing video that explain both HTML and CSS ver well, which make coding more easy for me. I'd recommend it to anyone still learning this concept.
 
